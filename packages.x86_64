@@ -123,3 +123,10 @@ nvidia
 xorg-drivers
 sddm
 plasma
+base-devel
+firefox
+alacritty
+konsole
+dolphin
+arandr
+
