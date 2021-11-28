@@ -1,0 +1,6 @@
+NAME="Calamity Os"
+ID=calamity
+ID_LIKE=arch
+BUILD_ID=rolling
+PRETTY_NAME="Calamity OS"
+HOME_URL="https://github.com/VG08/calamity-os-iso"
