@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="Calamity"
-iso_label="Calamity_$(date +%Y%m)"
+iso_label="Calamity_kde_$(date +%Y%m)"
 iso_publisher="Calamity"
 iso_application="Calamity Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"

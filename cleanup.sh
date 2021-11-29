@@ -1,1 +1,1 @@
-sudo rm -rf work out
+sudo rm -rf work
